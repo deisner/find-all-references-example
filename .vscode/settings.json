@@ -1,3 +1,8 @@
 {
-  "vetur.experimental.templateInterpolationService": true
+  "vetur.experimental.templateInterpolationService": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#04360B",
+    "titleBar.activeBackground": "#064B10",
+    "titleBar.activeForeground": "#EFFEF1"
+  }
 }
